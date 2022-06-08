@@ -1,6 +1,3 @@
-//SO IS1 222B LAB10
-//Bartosz Sobański
-//sb49402@zut.edu.pl
 #include <unistd.h>
 #include <stdio.h>
 #include <sys/wait.h>
